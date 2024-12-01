@@ -85,3 +85,7 @@
 |                     | Server downtime or failure when scaling app after deployment | 3           | 5            | Use cloud services with scalability options, load balancing, and monitoring tools     | 15                 |
 | **Maintenance**     | Lack of timely updates to security patches or bug fixes | 2            | 5            | Set up regular update cycles, monitor security advisories, and apply patches quickly | 10                 |
 |                     | User data loss or corruption due to database issues | 3                | 5            | Regular data backups, use transactional databases, and implement data recovery plans  | 15                 |
+
+
+## Use case and scenario analysis
+[use-case diagram](/usecase.png)
