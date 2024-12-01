@@ -1,15 +1,13 @@
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #1e2952;
-    color: white;
-  }
-  
+
   .container {
     display: flex;
     flex-direction: column;
     text-align: center;
     padding: 20px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1e2952;
+    color: white;
   }
   
   .header h1 {
@@ -52,6 +50,7 @@ body {
   
   .phone-mockup {
     margin-bottom: 40px;
+    
   }
   
   .phone-mockup img {
