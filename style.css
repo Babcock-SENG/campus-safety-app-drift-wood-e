@@ -5,19 +5,19 @@
 }
 .top{
    
-    color: white;
     padding-left: 50px;
     padding-right: 50px;
 }
 .top1{
     padding-left: 500px;
     padding-top: 30px;
-    
+    text-align: center;
     margin: -10px;
 }
 .phone-container {
     position: relative;
-    width: 200px; /* Set the width of the mockup */
+    width: 200px;
+     /* Set the width of the mockup */
      /* Maintain aspect ratio */
   }
   .phone-container1 {
