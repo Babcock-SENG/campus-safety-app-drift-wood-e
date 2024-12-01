@@ -106,6 +106,24 @@ See attached Gantt chart for a more detailed timeline.
 
 ## Why Choose Us?
 
+Our team has a solid foundation in software engineering and a proven track record of delivering high-quality, reliable applications. We specialize in both frontend and backend technologies, which are essential for developing this mobile application.
+
+We are committed to meeting your specific requirements, ensuring the final product is tailored to your needs and exceeds expectations. Your satisfaction is our priority, and we aim to deliver a fully functional application within the agreed timeline without compromising quality.
+
+To give you the best value for your investment, we provide six months of post-launch support and user training, ensuring a smooth transition and long-term success for your application.
+
+We are made up of six skilled professionals, each dedicated to delivering the highest quality:
+
+1. **Project Manager** – Oversees the project to ensure timely delivery and quality.
+2. **Developers** – Build the app’s frontend and backend for seamless functionality.
+3. **Designer** – Creates an intuitive and visually appealing user interface.
+4. **Requirements Analyst** – Defines and refines the app’s features based on your needs.
+5. **Scenario Analyst** – Develops use cases and scenarios to ensure user-centric design.
+6. **Risk Analyst** – Identifies and mitigates potential risks to ensure project success.
+
+With this well-rounded team, we are confident in delivering a top-notch solution that meets and exceeds your expectations.
+
+
 ---
 
 ## Terms and Conditions:
