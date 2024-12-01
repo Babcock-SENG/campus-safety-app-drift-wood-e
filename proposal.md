@@ -114,12 +114,13 @@ To give you the best value for your investment, we provide six months of post-la
 
 We are made up of six skilled professionals, each dedicated to delivering the highest quality:
 
-1. **Project Manager** – Oversees the project to ensure timely delivery and quality.
+1. **Project Manager**–(olomu faith) Oversees the project to ensure timely delivery and quality.
 2. **Developers** – Build the app’s frontend and backend for seamless functionality.
-3. **Designer** – Creates an intuitive and visually appealing user interface.
-4. **Requirements Analyst** – Defines and refines the app’s features based on your needs.
-5. **Scenario Analyst** – Develops use cases and scenarios to ensure user-centric design.
-6. **Risk Analyst** – Identifies and mitigates potential risks to ensure project success.
+3. **Designer** –(nnah samuel) Creates an intuitive and visually appealing user interface.
+4. **Requirements Analyst** –(Alex-Hope Chukwumeniem) Defines and refines the app’s features based on your needs.
+5. **Scenario Analyst**- (Hussaini Fadil)Develops use cases and scenarios to ensure user-centric design.
+6. **Risk Analyst** –(Ikechukwu Chikamso)Identifies and mitigates potential risks to ensure project success.
+7. **Gantt chart**-(Abara henry)specifies the timeline used for this project
 
 With this well-rounded team, we are confident in delivering a top-notch solution that meets and exceeds your expectations.
 
