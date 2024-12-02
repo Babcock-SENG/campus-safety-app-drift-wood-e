@@ -6,7 +6,7 @@
 - **Submission Date**: 02-12-2024  
 
 ## Team Members & Roles:
-- **Abara Henry Chiemezie (23/0238)**: Gantt chart  
+ 
 - **Alex-Hope Chukwumeniem (22/2939)**: Requirement analysis  
 - **Hussaini Fadil Olalekan (23/0004)**: Use case & scenario analysis  
 - **Ikechukwu Chikamso Michael (23/0218)**: Risk analysis  

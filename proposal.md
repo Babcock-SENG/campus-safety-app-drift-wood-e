@@ -120,7 +120,7 @@ We are made up of six skilled professionals, each dedicated to delivering the hi
 4. **Requirements Analyst** –(Alex-Hope Chukwumeniem) Defines and refines the app’s features based on your needs.
 5. **Scenario Analyst**- (Hussaini Fadil)Develops use cases and scenarios to ensure user-centric design.
 6. **Risk Analyst** –(Ikechukwu Chikamso)Identifies and mitigates potential risks to ensure project success.
-7. **Gantt chart**-(Abara henry)specifies the timeline used for this project
+7. **Gantt chart**-specifies the timeline used for this project
 
 With this well-rounded team, we are confident in delivering a top-notch solution that meets and exceeds your expectations.
 
