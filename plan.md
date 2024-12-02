@@ -87,5 +87,9 @@
 |                     | User data loss or corruption due to database issues | 3                | 5            | Regular data backups, use transactional databases, and implement data recovery plans  | 15                 |
 
 
-## Use case and scenario analysis
+## Use case  diagram
 [use-case diagram](/usecase.png)
+
+## link to live site
+https://babcock-seng.github.io/campus-safety-app-drift-wood-e/
+
