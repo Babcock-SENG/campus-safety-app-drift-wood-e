@@ -1,3 +1,49 @@
+.first{
+ background-image: url(images/circle.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+nav{
+  background-color: #ffffff;
+  height: 20%;;
+  padding: 10px 20px;
+  box-shadow: 000;
+}
+nav img{
+  margin: 0;
+  width: 50px;
+  height:10px;
+  display: inline;
+}
+ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  
+}
+li{
+  margin: 0 15px;
+ 
+}
+.main{
+  display: flex;
+  margin-top: -100px;
+  justify-content: space-between;
+  align-items: center;
+}
+.words{
+
+  margin-left: 20px;
+  margin-right: 20px;
+  max-width: 50%;
+  align-items: center;
+}
+.first img{
+  max-width: 100%; /* Make the image responsive */
+    height: auto; /* Maintain aspect ratio */
+    max-width: 300px;
+}
 .sos{
   background-color: #FF4C4C; 
   padding: 0px; 
