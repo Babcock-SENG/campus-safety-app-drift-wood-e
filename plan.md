@@ -11,7 +11,8 @@
 - **Hussaini Fadil Olalekan (23/0004)**: Use case & scenario analysis  
 - **Ikechukwu Chikamso Michael (23/0218)**: Risk analysis  
 - **Nnah Samuel Enyinnaya (22/3801)**: Paper prototype  
-- **Olomu Faith Kikelomo (23/0270)**: Software proposal  
+- **Olomu Faith Kikelomo (23/0270)**: Software proposal
+- **Abara Henry Chiemezie (23/0238)**: Gantt Chart 
 
 **Lecturer Name**: Mr. Awoniyi Amos  
 
